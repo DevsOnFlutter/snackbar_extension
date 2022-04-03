@@ -6,10 +6,10 @@ A flutter package to provide functions as extension for snackbar.
 
 ## Features
 
-✅ Register Multiple SnackBars
-✅ Show registered snackbar anywhere
-✅ Show SnackBar till a function runs
-✅ Customize snackbar on the fly
+✅ Register Multiple SnackBars </br>
+✅ Show registered snackbar anywhere </br>
+✅ Show SnackBar till a function runs </br>
+✅ Customize snackbar on the fly </br>
 
 ## Getting started
 
@@ -155,11 +155,11 @@ For a custom-hook to be merged, you will need to do the following:
   
 ## Stargazers
 
-[![Stargazers repo roster for @DevsOnFlutter/bulletin](https://reporoster.com/stars/dark/DevsOnFlutter/bulletin)](https://github.com/DevsOnFlutter/bulletin/stargazers)
+[![Stargazers repo roster for @DevsOnFlutter/snackbar_extension](https://reporoster.com/stars/dark/DevsOnFlutter/snackbar_extension)](https://github.com/DevsOnFlutter/snackbar_extension/stargazers)
 
 ## Forkers
 
-[![Forkers repo roster for @DevsOnFlutter/bulletin](https://reporoster.com/forks/dark/DevsOnFlutter/bulletin)](https://github.com/DevsOnFlutter/bulletin/network/members)
+[![Forkers repo roster for @DevsOnFlutter/snackbar_extension](https://reporoster.com/forks/dark/DevsOnFlutter/snackbar_extension)](https://github.com/DevsOnFlutter/snackbar_extension/network/members)
 
 ## Copyright & License
 
